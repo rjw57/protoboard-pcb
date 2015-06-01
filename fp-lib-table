@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name generic-pcb)(type KiCad)(uri ${KIPRJMOD}/generic-pcb.pretty)(options "")(descr ""))
+  (lib (name Sockets_DIP)(type Github)(uri ${KIGITHUB}/sockets_dip.pretty)(options "")(descr ""))
+)
