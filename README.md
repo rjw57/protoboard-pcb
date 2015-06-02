@@ -14,9 +14,17 @@ with any of the layouts one could buy "off the shelf".
 
 ## Images
 
+### 3D
+
 ![3d view of front](img/front-3d.jpg)
 
 ![3d view of back](img/back-3d.jpg)
+
+### 2D
+
+![View of front](img/front.jpg)
+
+![View of back](img/back.jpg)
 
 ## Licence
 
